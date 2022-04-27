@@ -32,6 +32,10 @@ src="https://img.shields.io/twitter/follow/KingSlayer_ks?logo=twitter&style=for-
 
 ### Badges
 
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/KingSlayer-KS/Interacting_with_AAVE_with_code" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KingSlayer-KS&repo=Interacting_with_AAVE_with_code&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/KingSlayer-KS/Advanced_NFT" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KingSlayer-KS&repo=Advanced_NFT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/KingSlayer-KS"><img src="https://github-readme-stats.vercel.app/api?username=KingSlayer-KS&show_icons=true&hide=issues,contribs&count_private=true&title_color=10b981&text_color=14b8a6&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="KingSlayer-KS's GitHub stats" /></a>
@@ -40,6 +44,3 @@ src="https://img.shields.io/twitter/follow/KingSlayer_ks?logo=twitter&style=for-
 
 <!-- <a href="http://www.github.com/KingSlayer-KS"><img src="https://activity-graph.herokuapp.com/graph?username=KingSlayer-KS&bg_color=000000&color=14b8a6&line=3382ed&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/KingSlayer-KS/Interacting_with_AAVE_with_code" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KingSlayer-KS&repo=Interacting_with_AAVE_with_code&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/KingSlayer-KS/Advanced_NFT" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KingSlayer-KS&repo=Advanced_NFT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
