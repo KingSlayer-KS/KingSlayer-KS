@@ -3,7 +3,7 @@ Hi 👋 My name is Sirjan(King\_Slayer)
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sirjanssk2933@protonmail.ch](mailto:sirjanssk2933@protonmail.ch)
-* 🧠  I'm learning DS Algo and WEB3 technologies
+* 🧠  I'm learning DS Algo in java and python, I also tinker around WEB3 technologies when i am free
 
 <a href="https://www.twitter.com/KingSlayer_ks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KingSlayer_ks?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
