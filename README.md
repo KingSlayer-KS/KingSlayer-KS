@@ -41,7 +41,8 @@ src="https://img.shields.io/twitter/follow/KingSlayer_ks?logo=twitter&style=for-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/KingSlayer-KS/Interacting_with_AAVE_with_code" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KingSlayer-KS&repo=Interacting_with_AAVE_with_code&title_color=10b981&text_color=14b8a6&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/KingSlayer-KS/Advanced_NFT" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KingSlayer-KS&repo=Advanced_NFT&title_color=10b981&text_color=14b8a6&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/KingSlayer-KS/Interacting_with_AAVE_with_code" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KingSlayer-KS&repo=Interacting_with_AAVE_with_code&title_color=10b981&text_color=14b8a6&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/KingSlayer-KS/Advanced_NFT" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KingSlayer-KS&repo=Advanced_NFT&title_color=10b981&text_color=14b8a6&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br />
+
 
 <b>My GitHub Stats</b>
 
