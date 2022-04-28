@@ -6,6 +6,7 @@ I am a CS Student
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sirjanssk2933@protonmail.ch](mailto:sirjanssk2933@protonmail.ch)
 * 🧠  I'm learning DS Algo in java and python, I also tinker around WEB3 technologies when i am free
+* 🤝  I'm open to collaborating on WEB3 based projects
 
 <a href="https://www.twitter.com/KingSlayer_ks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KingSlayer_ks?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
