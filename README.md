@@ -1,6 +1,6 @@
 Hi 👋 My name is Sirjan(King\_Slayer)
 =====================================
-I am a CS Student
+I am a CS Student 
 ----------------- 
  
 * 🌍  I'm based in India
