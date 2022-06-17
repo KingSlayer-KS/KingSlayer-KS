@@ -1,6 +1,6 @@
 Hi 👋 My name is Sirjan(King\_Slayer)
 =====================================
-I am a Programer, a Pentester & a Student
+I am a Programer, a Pentester & a Student 
 -----------------  
   
 * 🌍  I'm based in India
