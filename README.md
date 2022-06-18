@@ -11,6 +11,7 @@ I am a Programer, a Pentester & a Student
 <a href="https://www.twitter.com/KingSlayer_ks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KingSlayer_ks?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a>
+[![Sirjan's Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirjandeep-singh-kandhari/)
 
 ### Skills
 
