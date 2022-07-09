@@ -1,6 +1,6 @@
 Hi 👋 My name is Sirjan(King Slayer) 
 ===================================== 
-I am a Webside Developer, a Video Gamer & a Student 
+I am a Website Developer, a Video Gamer & a Student 
 -----------------
  
 * 🌍  I'm based in India
