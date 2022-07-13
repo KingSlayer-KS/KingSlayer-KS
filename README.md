@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================== 
 I am a Website Developer, a Video Gamer & a Student 
 -----------------
- 
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sirjanssk2933@proton.me](mailto:sirjanssk2933@proton.me) 
 * 🧠  I'm learning DS Algo in PYTHON, I also tinker around WEB3 technologies such as SOLIDITY, BROWNIE, GANACHE, IPFS when I am free.
