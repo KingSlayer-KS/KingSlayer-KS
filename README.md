@@ -7,7 +7,7 @@ I am a Website Developer, a Video Gamer & a Student
 * ✉️  You can contact me at [sirjanssk2933@proton.me](mailto:sirjanssk2933@proton.me) 
 * 🧠  I'm learning DS Algo in PYTHON, I also tinker around WEB3 technologies such as SOLIDITY, BROWNIE, GANACHE, IPFS when I am free.
 * 🤝  I'm open to collaborating on  front-end projects and WEB3. 
-
+ 
 <a href="https://www.twitter.com/KingSlayer_ks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KingSlayer_ks?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a>
