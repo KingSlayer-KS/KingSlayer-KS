@@ -5,7 +5,7 @@ I am a Website Developer, a Video Gamer & a Student
 
 * 🌍  I'm based in India 
 * ✉️  You can contact me at [sirjanssk2933@proton.me](mailto:sirjanssk2933@proton.me) 
-* 🧠  I'm learning DS Algo in PYTHON, I also tinker around WEB3 technologies such as SOLIDITY, BROWNIE, WEB3.js, GANACHE, IPFS when I am free.
+* 🧠  I'm learning React.js, I also tinker around WEB3 technologies such as SOLIDITY, BROWNIE, WEB3.js, GANACHE, IPFS when I am free.
 * 🤝  I'm open to collaborating on  front-end projects and WEB3. 
  
 <a href="https://www.twitter.com/KingSlayer_ks" target="_blank" rel="noreferrer"><img
