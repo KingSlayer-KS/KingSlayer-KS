@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Sirjan(King Slayer) 
 ===================================== 
-I am a Website Developer, a Video Gamer & a Student 
+I am a Web Developer, a Video Gamer & a Student 
 ----------------- 
 
 * 🌍  I'm based in India 
