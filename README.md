@@ -51,15 +51,14 @@ src="https://img.shields.io/twitter/follow/KingSlayer_ks?logo=twitter&style=for-
 
 ### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/KingSlayer-KS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KingSlayer-KS&stroke=22c55e&background=000000&ring=22c55e&fire=22c55e&currStreakNum=22c55e&currStreakLabel=22c55e&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
+
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/KingSlayer-KS/to-do" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KingSlayer-KS&repo=to-do&title_color=10b981&text_color=14b8a6&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/KingSlayer-KS/Blog" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KingSlayer-KS&repo=Blog&title_color=10b981&text_color=14b8a6&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/KingSlayer-KS/to-do" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KingSlayer-KS&repo=to-do&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/KingSlayer-KS/Blog" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KingSlayer-KS&repo=Blog&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+<br /><br /><br /><br /><br />
 
-<b>My GitHub Stats</b> 
-
-<a href="http://www.github.com/KingSlayer-KS"><img src="https://github-readme-stats.vercel.app/api?username=KingSlayer-KS&show_icons=true&hide=issues,contribs&count_private=true&title_color=10b981&text_color=14b8a6&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="KingSlayer-KS's GitHub stats" /></a>
-
-<a href="http://www.github.com/KingSlayer-KS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KingSlayer-KS&stroke=14b8a6&background=000000&ring=10b981&fire=10b981&currStreakNum=14b8a6&currStreakLabel=10b981&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<!-- <a href="http://www.github.com/KingSlayer-KS"><img src="https://activity-graph.herokuapp.com/graph?username=KingSlayer-KS&bg_color=000000&color=14b8a6&line=3382ed&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>  --> 
+<div width="100%" align="center"><a href="https://github.com/KingSlayer-KS/Interacting_with_AAVE_with_code" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KingSlayer-KS&repo=Interacting_with_AAVE_with_code&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/KingSlayer-KS/SmartContract-LOTTERY" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KingSlayer-KS&repo=SmartContract-LOTTERY&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a></div>
