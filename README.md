@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN | EVM | Freelancer | Cyber Sec | Gets the job done
 -------------------------------------------------------
 
-Blockchain app developer and full-stack developer, I am also interested in cybersecurity. I have experience using tools such as Burp Suite, Nmap, Metasploit, Kali Linux Terminal, and more. I work with Node.js, JavaScript, React.js, MongoDB, MySQL, Express, Solidity, Ethers.js, and other technologies daily. Currently seeking freelance projects or full-time job opportunities in these areas. Let's connect and collaborate on innovative solutions. If you have any questions, opportunities or doubts, feel free to reach me at sirjanssk2933@protonmail.ch.
+Blockchain app developer and full-stack developer, I am also interested in cybersecurity. I have experience using tools such as Burp Suite, Nmap, Metasploit, Kali Linux Terminal, and more. I work with Node.js, JavaScript, React.js, MongoDB, MySQL, Express, Solidity, Ethers.js, and other technologies daily. Currently seeking internship opportunities in Web3 space as jr smart contract developer. Let's connect and collaborate on innovative solutions. If you have any questions, opportunities or doubts, feel free to reach me at sirjanssk2933@protonmail.ch.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sirjanssk2933@protonmail.ch](mailto:sirjanssk2933@protonmail.ch)
