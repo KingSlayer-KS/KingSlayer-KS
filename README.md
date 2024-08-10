@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Sirjan
 ==============================================================================================================================
 
-MERN | EVM | Freelancer | Cyber Sec | Gets the job done
+Full Stack, Blockchain Developer 
 -------------------------------------------------------
 
-Blockchain app developer and full-stack developer, I am also interested in cybersecurity. I have experience using tools such as Burp Suite, Nmap, Metasploit, Kali Linux Terminal, and more. I work with Node.js, JavaScript, React.js, MongoDB, MySQL, Express, Solidity, Ethers.js, and other technologies daily. Currently seeking internship opportunities in Web3 space as jr smart contract developer. Let's connect and collaborate on innovative solutions. If you have any questions, opportunities or doubts, feel free to reach me at sirjanssk2933@protonmail.ch.
+Blockchain full-stack developer. I work with Node.js, JavaScript, React.js, MongoDB, MySQL, Express, Solidity, Ethers.js, and other technologies daily. Currently seeking internship opportunities in Web3 space as jr smart contract developer. Let's connect and collaborate on innovative solutions. Currently i am learing Rust.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [sirjanssk2933@protonmail.ch](mailto:sirjanssk2933@protonmail.ch)
-* 🤝  I'm open to collaborating on Web3, Cyber Security projects
+* 🤝  I'm open to collaborating on Web3 projects.
 
 ### Skills
 
